@@ -29,7 +29,7 @@ inspired by YAML.
   using https://www.markdownguide.org/extended-syntax/#fenced-code-blocks[code formatting feature],
   in messengers, for example, it is handy.
 
-* on paper
+* on paper:
   use it on paper with pencil.
 
 
