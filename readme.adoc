@@ -18,7 +18,7 @@ inspired by YAML.
 
 
 == has two versions:
-* light version for a quick start,
+* light version for a quick start.
 * full version for more advanced features,
   such as the task manager.
 
