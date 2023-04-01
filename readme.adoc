@@ -6,33 +6,31 @@ renderer-free markup language.
 image:https://img.shields.io/github/license/danisvaliev001/lamark?style=flat-square[GitHub]
 
 
-== why else should I use it:
+== why should I use it:
 lamark is
 zero-weight,
 distractions-free,
-app-free and renderer-free,
+app- and renderer-free,
 device-free (can be used on paper),
 machines-friendly and humans-first.
 
 inspired by YAML.
 
+
+== has two versions:
+* light version for a quick start,
+* full version for more advanced features,
+  such as the task manager.
+
+
 == usage options:
 * as plain text:
-  use it in any code/text editor app.
-
-* as _AsciiDoc_ extension:
-  use it directly in _AsciiDoc_ with https://docs.asciidoctor.org/asciidoc/latest/blocks/hard-line-breaks/#per-document[preserve line breaks],
-  it is really very handy.
-
-* as code in Markdown:
-  use it in all apps that support _Markdown_,
-  using https://www.markdownguide.org/extended-syntax/#fenced-code-blocks[code formatting feature],
-  in messengers, for example, it is handy.
+  use it in any text/code editor.
 
 * on paper:
-  use it on paper with pencil.
+  use it on real paper with a pencil.
 
 
 == quickstart:
-just start to structure your text
+just start to structuring your text
 lean on lamark syntax. Wherever you want.
