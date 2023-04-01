@@ -6,7 +6,7 @@ renderer-free markup language.
 image:https://img.shields.io/github/license/danisvaliev001/lamark?style=flat-square[GitHub]
 
 
-== why should I use it:
+=== why should I use it:
 lamark is
 zero-weight,
 distractions-free,
@@ -17,13 +17,13 @@ machines-friendly and humans-first.
 inspired by YAML.
 
 
-== has two versions:
+=== has two versions:
 * light version for a quick start,
 * full version for more advanced features,
   such as the task manager.
 
 
-== usage options:
+=== usage options:
 * as plain text:
   use it in any text/code editor.
 
@@ -31,6 +31,6 @@ inspired by YAML.
   use it on real paper with a pencil.
 
 
-== quickstart:
+=== quickstart:
 just start to structuring your text
 lean on lamark syntax. Wherever you want.
