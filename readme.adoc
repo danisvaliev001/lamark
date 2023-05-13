@@ -12,9 +12,7 @@ zero-weight,
 distractions-free,
 app- and renderer-free,
 device-free (can be used on paper),
-machines-friendly and humans-first.
-
-inspired by YAML.
+machines-friendly and human-first.
 
 
 == has two versions:
