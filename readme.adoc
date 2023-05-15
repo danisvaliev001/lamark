@@ -16,9 +16,8 @@ machines-friendly and human-first.
 
 
 == has two versions:
-* light version for a quick start.
-* full version for more advanced features,
-  such as the task manager.
+* quick-start version.
+* full version (coming next).
 
 
 == usage options:
