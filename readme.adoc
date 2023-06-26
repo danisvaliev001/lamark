@@ -1,5 +1,7 @@
-= lamark
 :hardbreaks-option:
+
+
+= lamark
 
 renderer-free markup language.
 
@@ -31,4 +33,4 @@ machines-friendly and human-first simultaneously.
 
 == quickstart:
 just start to structuring your text
-lean on lamark syntax. Wherever you want.
+lean on lamark link:rfc.adoc[syntax reference]. Wherever you want.

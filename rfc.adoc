@@ -1,0 +1,119 @@
+:hardbreaks-option:
+
+
+= syntax quick reference 
+v1.0.1 (2023-06-26)
+
+====
+lamark is maybe not best tool to use when making a shopping list, but it is good example to demonstrate, and understandable context by all people.
+====
+
+
+== single-level list:
+```
+.. groceries:
+   .. bananas
+   .. lemonade
+   .. bread
+```
+
+
+== multi-level list:
+```
+.. groceries:
+   .. bananas
+      .. mini
+      .. classic
+   .. lemonade
+   .. bread
+```
+any depth is acceptable.
+
+
+== two-line item:
+```
+.. groceries:
+   .. bananas
+   .. cookies
+      gluten free, sugar free
+```
+for detailing.
+
+
+== multi-line item:
+```
+.. groceries:
+   .. bananas
+   .. bread
+      gluten free
+      sugar free
+```
+also for detailing.
+
+
+== one-line child-items:
+```
+.. groceries:
+   bananas, lemonade, bread
+```
+for short items.
+
+
+== et cetera / item needed, but will be added later:
+```
+.. groceries:
+   .. rice brown
+   .. bread
+      .. brown
+      .. wheat
+      .. ...
+```
+
+
+== when need to relate items, but name of parent-item is not needed:
+```
+.. groceries:
+   .. :
+      .. bananas mini
+      .. watermelon
+      .. lemon
+   .. :
+      .. protein bars
+      .. cookies
+         gluten free
+         sugar free
+```
+
+
+== there is some uncertainty / need to return to item later:
+```
+.. groceries:
+   .. bananas
+   .. bread
+      .. brown
+      .. wheat
+      .? rye
+```
+when not sure it is really needed item or not.
+
+
+== important item:
+```
+.. groceries:
+   .. bananas
+   .. bread
+      .! brown
+      .. wheat
+```
+
+
+== remark / mini-comment:
+```
+.. groceries:
+   .. bananas
+   .. bread:
+      ,. gluten free, sugar free
+      .. brown
+      .. wheat
+```
+when it refers to all subitems.
