@@ -2,7 +2,7 @@
 
 
 = syntax quick reference 
-v1.0.1 (2023-06-26)
+v1.0.2 (2023-08-05)
 
 ====
 lamark is maybe not best tool to use when making a shopping list, but it is good example to demonstrate, and understandable context by all people.
@@ -116,4 +116,4 @@ when not sure it is really needed item or not.
       .. brown
       .. wheat
 ```
-when it refers to all subitems.
+when it is not subitem as rest.
