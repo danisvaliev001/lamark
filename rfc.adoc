@@ -1,11 +1,11 @@
 :hardbreaks-option:
 
 
-= syntax quick reference 
-v1.0.2 (2023-08-05)
+= syntax/spec reference 
+v1.0.3 (2023-08-19)
 
 ====
-lamark is maybe not best tool to use when making a shopping list, but it is good example to demonstrate, and understandable context by all people.
+lamark is actually not the best tool to use when making a shopping list, but it is a good example to demonstrate, and understandable context by all people.
 ====
 
 
