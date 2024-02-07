@@ -3,16 +3,19 @@
 
 = lamark
 
-editor-free markup language. Awesome for summaries.
+human-first _Markdown_ alternative for clearer daily notes
 
 image:https://img.shields.io/github/license/danisvaliev001/lamark?style=flat-square[GitHub]
 
 
+== what is it:
+**lamark** is markup language.
+
+
 == why should I use it / what else:
-**lamark is** distractions-free,
-editor-free and renderer-free,
-device-free (can be used on paper),
-machines-friendly and human-first simultaneously.
+**lamark** is human-first,
+renderer-free (use it in any editor),
+paper-friendly (distractions-free as result).
 
 
 == usage options:
@@ -24,5 +27,4 @@ machines-friendly and human-first simultaneously.
 
 
 == quickstart:
-just start to structuring your text
-lean on lamark link:rfc.adoc[syntax reference]. Wherever you want.
+Just start to structuring your text lean on lamark link:rfc.adoc[syntax reference]. Wherever you want.
