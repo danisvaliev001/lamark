@@ -3,7 +3,7 @@
 
 = lamark
 
-human-first _Markdown_ alternative for clearer daily notes
+human-first _Markdown_ alternative for more clearer daily notes
 
 image:https://img.shields.io/github/license/danisvaliev001/lamark?style=flat-square[GitHub]
 
