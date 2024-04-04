@@ -23,7 +23,7 @@ paper-friendly (distractions-free as result).
   use it in any code editor.
 
 * with Yandex Flavored Markdown:
-  easiest way to use YFM is it with VSCode. To do that, simply create a new private (or public) repo by forking https://github.com/diplodoc-platform/documentation-template[this one] and open it using GitHub Codespaces on your desktop or web browser.
+  easiest way (few clicks) to use YFM is it with VSCode. To do that, simply create a new private (or public) repo by forking https://github.com/diplodoc-platform/documentation-template[this one] and open it using GitHub Codespaces on your desktop or web browser.
 
 * on paper:
   use it on real paper with a pencil.
