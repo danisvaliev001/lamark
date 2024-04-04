@@ -24,6 +24,7 @@ paper-friendly (distractions-free as result).
 
 * with Yandex Flavored Markdown:
   simply create a new private (or public) repo by forking https://github.com/diplodoc-platform/documentation-template[this one]
+  (unfortunately this way doesn't work properly yet)
 
 * on paper:
   use it on real paper with a pencil.
