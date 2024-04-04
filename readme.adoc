@@ -20,7 +20,8 @@ paper-friendly (distractions-free as result).
 
 == usage options:
 * as plain text:
-  use it in any text/code editor.
+  use it in any code editor.
+  easiest way is to use Yandex Flavored Markdown with VSCode and GitHub Codespaces on your desktop. To do that, simply create a new private (or public) repo by forking this one: https://github.com/diplodoc-platform/documentation-template
 
 * on paper:
   use it on real paper with a pencil.
