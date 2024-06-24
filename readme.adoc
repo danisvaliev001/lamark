@@ -13,9 +13,9 @@ image:https://img.shields.io/github/license/danisvaliev001/lamark?style=flat-squ
 
 
 == why should I use it / what else:
-**lamark** is human-first,
-renderer-free (use it in any editor),
-paper-friendly (distractions-free as result).
+**lamark** is 
+distractions-free,
+paper-friendly.
 
 
 == usage options:
