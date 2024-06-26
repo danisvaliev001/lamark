@@ -9,13 +9,12 @@ image:https://img.shields.io/github/license/danisvaliev001/lamark?style=flat-squ
 
 
 == what is it:
-**lamark** is markup language.
+**lamark** is parser-free and renderer-free markup language.
 
 
 == why should I use it / what else:
-**lamark** is 
-distractions-free,
-paper-friendly.
+as result, **lamark** is 
+distractions-free and paper-friendly.
 
 
 == usage options:
