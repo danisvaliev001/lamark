@@ -30,4 +30,6 @@ distractions-free and paper-friendly.
 
 
 == quickstart:
-Just start to structuring your text lean on lamark link:rfc.adoc[syntax reference]. Wherever you want.
+just start to structuring your text following on lamark link:rfc.adoc[syntax reference].
+
+on paper, in code editor. Wherever you want.
