@@ -2,7 +2,7 @@
 
 
 = syntax/spec reference 
-v1.0.3 (2023-08-19)
+v1.1.0 (2024-06-27)
 
 ====
 lamark is actually not the best tool to use when making a shopping list, but it is a good example to demonstrate, and understandable context by all people.
@@ -63,9 +63,9 @@ for short items.
 ```
 .. groceries:
    .. rice brown
-   .. bread
-      .. brown
-      .. wheat
+   .. drinks:
+      .. two lemonades
+      .. mojito
       .. ...
 ```
 
@@ -97,13 +97,23 @@ for short items.
 when not sure it is really needed item or not.
 
 
-== important item:
+== more important item / first priority:
 ```
 .. groceries:
    .. bananas
    .. bread
-      .! brown
+      1. brown
       .. wheat
+```
+
+
+== less important item / last priority:
+```
+.. groceries:
+   .. bananas
+   .. bread
+      .. brown
+      9. wheat
 ```
 
 
@@ -113,7 +123,27 @@ when not sure it is really needed item or not.
    .. bananas
    .. bread:
       ,. gluten free, sugar free
-      .. brown
-      .. wheat
 ```
-when it is not subitem as rest.
+when we want to specify that it is not subitem.
+
+
+== all-in-one example:
+```
+.. groceries:
+   .. bananas
+      .. mini
+      .. classic
+   .. cookies
+      gluten free, sugar free
+   .. drinks:
+      .. two lemonades
+      .. mojito
+      .. ...
+   .. bread:
+      ,! gluten free, sugar free
+      1. brown
+      9. wheat
+      9? rye
+   .. :
+      .. protein bars
+```
