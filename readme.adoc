@@ -8,8 +8,8 @@ human-first _Markdown_ alternative for more clearer daily notes
 image:https://img.shields.io/github/license/danisvaliev001/lamark?style=flat-square[GitHub]
 
 
-== what is it:
-**lamark** is parser-free and renderer-free markup language.
+== what is **lamark** exactly:
+**lamark** is parser-free and renderer-free markup language. Among other things, **lamark** is column-oriented.
 
 
 == why should I use it / what else:
@@ -31,5 +31,3 @@ distractions-free and paper-friendly.
 
 == quickstart:
 just start to structuring your text following on lamark link:rfc.adoc[syntax reference].
-
-on paper, in code editor. Wherever you want.
