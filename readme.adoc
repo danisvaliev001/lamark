@@ -19,7 +19,7 @@ distractions-free and paper-friendly.
 
 == usage options:
 * as plain text:
-  use it in any code editor.
+  use it in any editor with monospace font.
 
 * with Yandex Flavored Markdown:
   simply create a new private (or public) repo by forking https://github.com/diplodoc-platform/documentation-template[this one]
