@@ -3,31 +3,24 @@
 
 = lamark
 
-human-first _Markdown_ alternative for more clearer daily notes
+human-first markup language, 
+column-oriented
 
 image:https://img.shields.io/github/license/danisvaliev001/lamark?style=flat-square[GitHub]
 
 
-== what is **lamark** exactly:
-**lamark** is parser-free and renderer-free markup language. Among other things, **lamark** is column-oriented.
-
-
-== why should I use it / what else:
-as result, **lamark** is 
-distractions-free and paper-friendly.
-
-
 == usage options:
+* inside https://asciidoc.org/[asciidoc]:
+  look at the source code of the current file for example.
+
 * as plain text:
-  use it in any editor with monospace font.
+  use it in any code editor
+  without any parser or renderer.
 
-* with Yandex Flavored Markdown:
-  simply create a new private (or public) repo by forking https://github.com/diplodoc-platform/documentation-template[this one]
-  (unfortunately this way doesn't work properly yet)
-
-* on paper:
-  use it on real paper with a pencil.
+* as handwriting text:
+  use it on your note book. Full support for 
+  writing on paper is in **lamark** DNA.
 
 
 == quickstart:
-just start to structuring your text following on lamark link:rfc.adoc[syntax reference].
+just start to structuring your text following on lamark link:rfc.adoc[syntax reference]
