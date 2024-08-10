@@ -11,16 +11,19 @@ image:https://img.shields.io/github/license/danisvaliev001/lamark?style=flat-squ
 
 == usage options:
 * inside https://asciidoc.org/[asciidoc]:
-  look at the source code of the current file for example.
+  look at the source code 
+  of the current file for example.
 
 * as plain text:
   use it in any code editor
   without any parser or renderer.
 
 * as handwriting text:
-  use it on your note book. Full support for 
-  writing on paper is in **lamark** DNA.
+  use it on your note book. Full 
+  support for writing on paper 
+  is in **lamark** DNA.
 
 
 == quickstart:
-just start to structuring your text following on lamark link:rfc.adoc[syntax reference]
+just start to structuring your text 
+following on lamark link:rfc.adoc[syntax reference]
