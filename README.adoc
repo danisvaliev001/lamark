@@ -6,7 +6,7 @@
 human-first markup language, 
 column-oriented.
 
-image:https://img.shields.io/github/license/danisvaliev001/lamark?style=flat-square[GitHub]
+image:https://img.shields.io/badge/License-MIT-black?style=for-the-badge[MIT License, link="./LICENSE"]
 
 
 == fully supported usage options:
