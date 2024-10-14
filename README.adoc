@@ -24,4 +24,4 @@ image:https://img.shields.io/badge/License-MIT-black?style=for-the-badge[MIT Lic
 
 == quickstart:
 just start to structuring your text 
-following on lamark link:rfc.adoc[syntax reference]
+following on lamark link:RFC.adoc[syntax reference]
