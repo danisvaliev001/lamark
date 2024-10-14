@@ -4,8 +4,7 @@
 = lamark
 
 human-first markup language, 
-column-oriented,
-renderer-free.
+column-oriented.
 
 image:https://img.shields.io/badge/License-MIT-black?style=for-the-badge[MIT License, link="./LICENSE"]
 
