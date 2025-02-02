@@ -11,8 +11,8 @@ image:https://img.shields.io/badge/License-MIT-black?style=for-the-badge[MIT Lic
 
 == fully supported usage options:
 * inside https://asciidoc.org/[asciidoc]:
-  look at the source code 
-  of the current file for example.
+  view at the source code 
+  of the current file as an example.
 
 * as plain text:
   use it in any code editor
@@ -20,7 +20,6 @@ image:https://img.shields.io/badge/License-MIT-black?style=for-the-badge[MIT Lic
 
 * as handwriting text:
   use it in your paper notebook.
-
 
 == quickstart:
 just start to structuring your text 
