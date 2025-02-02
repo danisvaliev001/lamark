@@ -18,8 +18,9 @@ image:https://img.shields.io/badge/License-MIT-black?style=for-the-badge[MIT Lic
   use it in any code editor
   without any parser or renderer.
 
-* as handwriting text:
-  use it in your paper notebook.
+* on paper:
+  use it for handwritten notes.
+
 
 == quickstart:
 just start to structuring your text 
