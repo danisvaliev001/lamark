@@ -10,6 +10,11 @@ column-oriented.
 image:https://img.shields.io/badge/License-MIT-black?style=for-the-badge[MIT License, link="./LICENSE"]
 
 
+== quickstart:
+just start to structuring your text
+following on lamark link:RFC.adoc[syntax reference]
+
+
 == fully supported usage options:
 * inside https://asciidoc.org/[asciidoc]:
   view at the source code
@@ -21,8 +26,3 @@ image:https://img.shields.io/badge/License-MIT-black?style=for-the-badge[MIT Lic
 
 * on paper:
   use it for handwritten notes.
-
-
-== quickstart:
-just start to structuring your text
-following on lamark link:RFC.adoc[syntax reference]
