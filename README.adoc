@@ -3,9 +3,11 @@
 
 = lamark
 
-human-first markup language
-and markup concept,
+human-first ***markup concept***
+which includes markup ***philosophy*** and markup ***language***,
 column-oriented.
+
+ideal for your daily notes.
 
 image:https://img.shields.io/badge/License-MIT-black?style=for-the-badge[MIT License, link="./LICENSE"]
 
@@ -21,8 +23,8 @@ following on lamark link:RFC.adoc[syntax reference]
   of the current file as an example.
 
 * as plain text:
-  use it in any code editor
-  without any parser or renderer.
+  use it in any code editor as is,
+  without additional parser or renderer.
 
-* on paper:
+* on physical paper:
   use it for handwritten notes.
