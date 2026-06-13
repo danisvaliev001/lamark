@@ -7,7 +7,7 @@ human-first ***markup concept***
 which includes markup ***philosophy*** and markup ***language***,
 column-oriented.
 
-ideal for your daily notes.
+for daily notes.
 
 image:https://img.shields.io/badge/License-MIT-black?style=for-the-badge[MIT License, link="./LICENSE"]
 
